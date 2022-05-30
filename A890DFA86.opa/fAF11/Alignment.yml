@@ -1,0 +1,19 @@
+segment_sources:
+  ID9BC9F0F:
+    type: origin_type
+    relation: translation
+    language: en
+  I69AA3A97:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  314dc3b5a3b14a3aaa89723e71ba3821:
+    ID9BC9F0F: 27d5c6442ba245d8b3c203baf9fe8e5c
+    I69AA3A97: 51159f3ccd954518b8a8fb6fbca71274
+  8c68b9b314894efebc642e778be1dd6d:
+    ID9BC9F0F: 5321475c8595486299deceda5305e797
+    I69AA3A97: 157a006310334f039f4878f7b8808a84
+  40aa6dd8ac3343ad8e4c6f80fdd49d45:
+    ID9BC9F0F: c9802bb3ec0844958daa710a75fa09f0
+    I69AA3A97: 1a528e084af54d258e6af5d7c7464001

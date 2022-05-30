@@ -1,0 +1,25 @@
+segment_sources:
+  ID9BC9F0F:
+    type: origin_type
+    relation: translation
+    language: en
+  I69AA3A97:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bb80ac0600d94470993bee487ff5c53f:
+    ID9BC9F0F: 1a506ce1f3b3425aaf4e9ec57602ff8b
+    I69AA3A97: e56b63f695fe45cc83f1ca37c8153709
+  5ed2a889decc4c63aa3f1a002787c9b2:
+    ID9BC9F0F: 6a11f01a140c42e09a8e249135cd0e35
+    I69AA3A97: 8d4a498936d242fba06d4f0cb7b7271b
+  b8b182f475604af18455d7e7420fb879:
+    ID9BC9F0F: 32431ef9f7f74d94a787e43cc06fc13c
+    I69AA3A97: 326ac7c558bf4833b2d719e26df3fc38
+  63380b47cfb7405f9e1d842dbcc95af0:
+    ID9BC9F0F: 8acee60b06964e9d9c0a0fad5a5578aa
+    I69AA3A97: 7db99fd0d5014000abfec2ccd5fbf38d
+  7762a9e9046b4113b324016c428ed813:
+    ID9BC9F0F: e7260a78ad3b4518b4e5dafb6b78e448
+    I69AA3A97: 0693ad4b0d25486bbfc4181700b7862c

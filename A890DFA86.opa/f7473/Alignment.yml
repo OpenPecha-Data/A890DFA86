@@ -1,0 +1,16 @@
+segment_sources:
+  ID9BC9F0F:
+    type: origin_type
+    relation: translation
+    language: en
+  I69AA3A97:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b801d2359266446fa7a37b74a5dfb0e8:
+    ID9BC9F0F: ce0ffe575e4c47b2a26594edb2617b7d
+    I69AA3A97: 0d22d0e4ba2f47c2b519c7ab52818852
+  551943cd6e28436bbfb39c8ee67349aa:
+    ID9BC9F0F: 70cb652ee5304e929909d4e9887c99ec
+    I69AA3A97: ead41efc65af463eb789e03e37e99a23
